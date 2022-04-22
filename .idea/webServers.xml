@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6c7c3638-407c-4b0d-8055-4da38fe00cdb" name="Symfony" url="http://localhost">
+        <fileTransfer mountedRoot="C:\Documents and Settings" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
