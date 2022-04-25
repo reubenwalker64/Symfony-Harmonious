@@ -37,6 +37,7 @@
         "symfony/string": "6.0.*",
         "symfony/translation": "6.0.*",
         "symfony/twig-bundle": "6.0.*",
+        "symfony/ux-turbo": "^2.1",
         "symfony/validator": "6.0.*",
         "symfony/web-link": "6.0.*",
         "symfony/webpack-encore-bundle": "^1.14",
@@ -64,7 +65,14 @@
         "preferred-install": {
             "*": "dist"
         },
-        "sort-packages": true
+        "sort-packages": true,
+
+
+        "platform": {
+            "php": "8.0.2"
+        }
+
+
     },
     "autoload": {
         "psr-4": {
